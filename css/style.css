@@ -66,8 +66,8 @@
   }
 
   #global-header {
-    padding-top: 40px;
-    padding-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
   #global-header .block {
     padding-left: 0px;
@@ -75,16 +75,28 @@
   #global-header .block h1 {
     font-size: 20px;
   }
+  #global-header .block h1 {
+    letter-spacing: 0;
+    padding-bottom: 10px;
+  }
+
+  .post-area {
+    padding: 20px 40px;
+  }
 
   .post-area a:link, .post-area a:visited {
     font-size: 20px;
     color: #333;
   }
 
-hr {
+  header {
+    padding: 10px 0;
+  }
+
+  hr {
     margin-top: 10px;
     margin-bottom: 10px;
-}
+  }
 
   h1, .h1 {
     font-size: 23px;
