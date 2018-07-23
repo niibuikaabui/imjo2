@@ -37,6 +37,14 @@
   padding-left: 40px;
 }
 
+#intro .block p {
+  padding-top: 10px;
+}
+
+#intro .block h2 {
+    padding-top: 20px;
+}
+
 @media only screen and (max-width: 767px) {
   /*---------------------------------------------
 					Index Start 
@@ -71,5 +79,27 @@
   .post-area a:link, .post-area a:visited {
     font-size: 20px;
     color: #333;
+  }
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+  h1, .h1 {
+    font-size: 23px;
+  }
+
+  #intro {
+    padding: 20px 0;
+  }
+
+  #intro .block h2 {
+    padding-top: 5px;
+  }
+
+  footer {
+    padding-top: 30px;
+    padding-bottom: 35px;
   }
 }
