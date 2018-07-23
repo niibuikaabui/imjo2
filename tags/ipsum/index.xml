@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipsum on 統合医療学会　沖縄県支部</title>
+    <link>https://imjo.netlify.com/tags/ipsum/</link>
+    <description>Recent content in Ipsum on 統合医療学会　沖縄県支部</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Tue, 10 Oct 2017 13:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://imjo.netlify.com/tags/ipsum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>日本統合医療学会 熊本県支部学術講演会（2017年11月4日）</title>
+      <link>https://imjo.netlify.com/blog/migrate-from-jekyll/</link>
+      <pubDate>Tue, 10 Oct 2017 13:00:00 +0200</pubDate>
+      
+      <guid>https://imjo.netlify.com/blog/migrate-from-jekyll/</guid>
+      <description>熊本県支部の学術講演会のご案内 開催日時：2017年11月4日(土) 14:50～18:10 開催会場：ネストホテル 2階「あそ」 熊本市中央区辛島町</description>
+    </item>
+    
+  </channel>
+</rss>
